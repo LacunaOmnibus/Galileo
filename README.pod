@@ -2,7 +2,7 @@
 
 =head1 NAME
 
-Galileo - A simple modern CMS built on Mojolicious - https://github.com/RedOrion/Galileo and https://github.com/RedOrion/Galileo/commit/3d104ea8cb646a122debe9109d3da510e1c86c9d
+Galileo - A simple modern CMS built on Mojolicious - https://github.com/RedOrion/Galileo and https://github.com/LacunaOmnibus/Galileo/commit/3d104ea8cb646a122debe9109d3da510e1c86c9d
 
 =head1 SYNOPSIS
 
