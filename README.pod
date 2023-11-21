@@ -2,7 +2,7 @@
 
 =head1 NAME
 
-Galileo - A simple modern CMS built on Mojolicious
+Galileo - A simple modern CMS built on Mojolicious - https://github.com/RedOrion/Galileo
 
 =head1 SYNOPSIS
 
